@@ -15,6 +15,7 @@
 		D8BC9EEA26FB470900C4697D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BC9EE826FB470900C4697D /* LaunchScreen.storyboard */; };
 		D8BC9EF526FB470900C4697D /* SwiftUIbasicsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BC9EF426FB470900C4697D /* SwiftUIbasicsTests.swift */; };
 		D8BC9F0026FB470900C4697D /* SwiftUIbasicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BC9EFF26FB470900C4697D /* SwiftUIbasicsUITests.swift */; };
+		D8BC9F0E26FB67CC00C4697D /* DaysView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8BC9F0D26FB67CC00C4697D /* DaysView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D8BC9EFB26FB470900C4697D /* SwiftUIbasicsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIbasicsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8BC9EFF26FB470900C4697D /* SwiftUIbasicsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIbasicsUITests.swift; sourceTree = "<group>"; };
 		D8BC9F0126FB470900C4697D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8BC9F0D26FB67CC00C4697D /* DaysView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaysView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D8BC9EE826FB470900C4697D /* LaunchScreen.storyboard */,
 				D8BC9EEB26FB470900C4697D /* Info.plist */,
 				D8BC9EE526FB470900C4697D /* Preview Content */,
+				D8BC9F0D26FB67CC00C4697D /* DaysView.swift */,
 			);
 			path = SwiftUIbasics;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8BC9EDE26FB470700C4697D /* AppDelegate.swift in Sources */,
+				D8BC9F0E26FB67CC00C4697D /* DaysView.swift in Sources */,
 				D8BC9EE026FB470700C4697D /* SceneDelegate.swift in Sources */,
 				D8BC9EE226FB470700C4697D /* ContentView.swift in Sources */,
 			);
